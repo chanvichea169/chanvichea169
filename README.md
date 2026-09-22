@@ -39,7 +39,7 @@
 | [**Food Delivery API**](https://github.com/chanvichea169/food_delivery_api) | Scalable backend service powering order processing and delivery logic | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | [**POS System**](https://github.com/chanvichea169/pos-system) | Point of Sale architecture designed for smooth retail operations | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | [**Home Rental App**](https://github.com/chanvichea169/home_rental_app) | Multi-platform mobile app for discovery and property listings | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| [**Expense Tracker**](https://github.com/chanvichea169/expense_tracker) | Financial management application for tracking personal income & budgets | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**Expense Tracker**](https://github.com/chanvichea169/expense-tracker) | Financial management application for tracking personal income & budgets | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
 ---
 
